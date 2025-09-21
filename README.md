@@ -1,1 +1,4 @@
-# ex_base_KPI
+# Exemplo de uso lib Chart js
+https://www.chartjs.org/
+
+https://www.chartjs.org/docs/latest/getting-started/
